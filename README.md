@@ -49,3 +49,15 @@ The Airbnb Clone Project is a comprehensive, real-world application that emulate
   * **Redis:** Used for caching and session management.
   * **Docker:** Containerization tool for consistent development and deployment environments.
   * **CI/CD Pipelines:** Automated pipelines for testing and deploying code changes.
+## Database Design
+**Users:** User ID, First Name, Last Name, Email, Password, Property ID, User Type
+* A user can have multiple properties.
+* A user can be the owner or a guest
+**Properties** Property Name, Property ID, Location, Cost, Booking ID, Description
+  *Property is associated with a booking
+**Bookings** Bookings ID, User ID, Property ID, Bookings Date, Reviews, Status
+  * A user can have multiple bookings
+**Reviews** Bookings ID, Property ID, Comments, Ratings
+  * Properties are tied to a specific property.
+**Payment** Property ID, Booking ID, User ID, Amount, Payment ID.
+  * Payments are made per booking
