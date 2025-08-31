@@ -42,6 +42,25 @@ The Airbnb Clone Project is a comprehensive, real-world application that emulate
 Defining colors, typography, and layouts ensures **consistency**, speeds up collaboration between designers and developers, improves **brand identity**, and enhances **usability and accessibility**.  
 
 
+## 🧩 UI Component Patterns  
+
+To create a modular, reusable design system, the following UI components will be developed:  
+
+1. **Navbar**  
+   - Contains logo, search bar, navigation links, and login/signup.  
+   - Responsive with mobile menu support.  
+
+2. **Property Card**  
+   - Displays property image, title, location, price per night, and rating.  
+   - Reusable in grid or list views.  
+
+3. **Footer**  
+   - Contains quick links (About, Contact, Privacy, Help).  
+   - Social media icons and copyright.  
+
+*(Future components: Search Filters, Booking Summary Widget, Review Card, User Profile Widget.)*  
+
+
 ## 👥 Project Roles and Responsibilities 🤝
 * Product Owner
     * Defines product vision, prioritizes features, and manages the product backlog.
