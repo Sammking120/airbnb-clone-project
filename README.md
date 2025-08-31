@@ -2,6 +2,46 @@
 ## 📝 Project Description 👨‍💻
 The Airbnb Clone Project is a comprehensive, real-world application that emulates Airbnb's core functionality, enabling users to register, list properties, book stays, and leave reviews. Built with technologies like Django, MySQL etc, the project focuses on backend development, secure API design, database architecture, and CI/CD deployment. It serves as a practical environment for collaborative software development, emphasizing real-world skills like system design, authentication, and scalable deployment.
 
+## 🎨 UI/UX Design Planning  
+
+### Design Goals  
+- Clean, responsive, and accessible design.  
+- Consistent styling and branding.  
+- Minimized booking friction to increase conversions.  
+- Clear navigation and user flows.  
+
+### Key Features  
+- **Search & Filtering** (location, price, amenities).  
+- **High-Quality Visuals** (images, icons).  
+- **Responsive Layouts** (desktop, tablet, mobile).  
+- **Streamlined Checkout** with progress indicators.  
+
+### Primary Pages Overview  
+
+| Page | Description | Key UI/UX Elements |  
+|------|-------------|---------------------|  
+| **Property Listing View** | Displays all available properties. | Search bar, filters, property thumbnails, pagination/infinite scroll. |  
+| **Listing Detailed View** | Shows details of a selected property. | Large images, description, amenities, pricing, reviews, “Book Now” button. |  
+| **Simple Checkout View** | Finalizes the booking. | Booking summary, payment details, progress tracker, confirmation button. |  
+
+### Color Styles  
+- **Primary:** #1E90FF (Dodger Blue)  
+- **Secondary:** #FF8C00 (Dark Orange)  
+- **Background:** #F8F9FA (Light Gray)  
+- **Text Primary:** #212529 (Dark Charcoal)  
+- **Text Secondary:** #6C757D (Muted Gray)  
+- **Success:** #28A745 (Green)  
+- **Error:** #DC3545 (Red)  
+
+### Typography  
+- **Font Family:** Inter, sans-serif  
+- **Weights:** 300 (Light), 400 (Regular), 500 (Medium), 700 (Bold)  
+- **Sizes:** H1 – 32px, H2 – 24px, H3 – 20px, Body – 16px, Small – 14px  
+
+### Why Identify Design Properties?  
+Defining colors, typography, and layouts ensures **consistency**, speeds up collaboration between designers and developers, improves **brand identity**, and enhances **usability and accessibility**.  
+
+
 ## 👥 Team Roles 🤝
 * Product Owner
     * Defines product vision, prioritizes features, and manages the product backlog.
