@@ -42,7 +42,7 @@ The Airbnb Clone Project is a comprehensive, real-world application that emulate
 Defining colors, typography, and layouts ensures **consistency**, speeds up collaboration between designers and developers, improves **brand identity**, and enhances **usability and accessibility**.  
 
 
-## 👥 Team Roles 🤝
+## 👥 Project Roles and Responsibilities 🤝
 * Product Owner
     * Defines product vision, prioritizes features, and manages the product backlog.
     * Acts as the bridge between stakeholders and the development team.
